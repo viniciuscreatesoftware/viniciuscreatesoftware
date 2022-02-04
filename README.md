@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viniciuscreatesoftware
-- 👀 I’m interested in JavaSciprt, React, React Native, Nodejs. 
-- 🌱 I’m currently learning JavaScript, React. 
+- 👀 I’m interested in JavaSciprt, React, React Native, Nodejs, Java, BIRT. 
+- 🌱 I’m currently learning JavaScript, React, NodeJS, Java. 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
